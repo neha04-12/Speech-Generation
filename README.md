@@ -1,2 +1,2 @@
 # Speech-Generation
-Speech generation using Natural Language Processing
+Speech generation using Natural Language Processing and n-gram
